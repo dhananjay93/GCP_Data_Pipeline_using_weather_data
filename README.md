@@ -16,8 +16,8 @@ The pipeline:
 
 ## 🏗 Architecture  
 
-![Weather Data Pipeline Architecture](<img width="1326" height="619" alt="image" src="https://github.com/user-attachments/assets/b411a0ad-c23c-4e04-bc91-b157bd1dd65a" />
-)
+<img width="1326" height="619" alt="image" src="https://github.com/user-attachments/assets/257f4468-3a9d-4dfc-b1e4-38672f4c76cc" />
+
 
 ---
 
